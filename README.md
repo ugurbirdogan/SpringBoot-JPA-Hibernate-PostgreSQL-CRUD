@@ -7,5 +7,6 @@
 
 ## Description
 I have shown the GET and POST Requests below with Postman.
+
 ![image](https://user-images.githubusercontent.com/41667882/136710027-a1561ae6-c46d-460d-9450-c088eee6d235.png)
 
