@@ -38,7 +38,7 @@
       <map>
         <entry key="JPA Inspector" value="false" />
         <entry key="JPA Palette" value="false" />
-        <entry key="JPA Structure" value="true" />
+        <entry key="JPA Structure" value="false" />
       </map>
     </option>
   </component>
@@ -57,7 +57,7 @@
       <recent name="com.example.demo.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo7Application">
+  <component name="RunManager" selected="JUnit.All in demo7 (3)">
     <configuration name="All in demo7 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo7" />
       <option name="PACKAGE_NAME" value="" />
@@ -67,6 +67,14 @@
       </method>
     </configuration>
     <configuration name="All in demo7 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in demo7 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo7" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -91,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in demo7 (3)" />
         <item itemvalue="JUnit.All in demo7 (2)" />
         <item itemvalue="JUnit.All in demo7 (1)" />
         <item itemvalue="JUnit.All in demo7" />
@@ -107,6 +116,7 @@
       <updated>1633937271535</updated>
       <workItem from="1633937272808" duration="6226000" />
       <workItem from="1633949638977" duration="65000" />
+      <workItem from="1634020508009" duration="94000" />
     </task>
     <servers />
   </component>

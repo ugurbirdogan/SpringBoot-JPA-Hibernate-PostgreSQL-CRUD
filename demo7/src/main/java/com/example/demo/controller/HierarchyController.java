@@ -17,9 +17,6 @@ public class HierarchyController {
     @Autowired
     private HierarchyService hierarchyService;
 
-    @Autowired
-    private UserService userService;
-
     @GetMapping("/users/{usr_no}/hierarchys")
     public Optional<Hierarchy> getHierarchyByUsr_no(@PathVariable Long usr_no){
 
